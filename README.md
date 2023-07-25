@@ -1,5 +1,5 @@
 # Bluejack-Fantasy
-Mid Term Quiz for Multimedia Programming Foundation Course at BINUS UNIVERSITY
+Mid Term Quiz for Multimedia Programming Foundation Course
 
 This is the result of my quiz for Multimedia Programming Foundation. We're tasked to create a program using JAVA GUI which copy exactly from the example given. We're given 90 minute to finish this project.
 
